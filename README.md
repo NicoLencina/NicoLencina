@@ -4,14 +4,14 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║        Initializing profile.exe ...                          ║
-║        Loading developer instance ...                        ║
-║        [ ██████████████████████████ ] 100%  ✓               ║
+║      booting NicoLencina.exe ...                             ║
+║      location: Ushuaia, Tierra del Fuego 🇦🇷 (fin del mundo)  ║
+║      [ ██████████████████████████ ] 100%  ✓                ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# `> whoami`
+# `> Nico Lencina `
 
 **Analista de Datos · FullStack Developer · Estudiante de Licenciatura en Sistemas**
 *Universidad Nacional de Tierra del Fuego — UNTDF*
@@ -26,17 +26,20 @@
 ## `$ cat about_me.txt`
 
 ```yaml
-name:         "@tuUsuario"
-location:     "Tierra del Fuego, Argentina 🇦🇷"
-role:         ["Analista de Datos", "FullStack Developer", "Estudiante LSI"]
-university:   "UNTDF — Licenciatura en Sistemas"
-os:           "Ubuntu (porque la libertad no es opcional)"
-interests:    ["Programación", "Redes", "Ciberseguridad", "Datos"]
-status:       "Siempre en modo 'un commit más y me voy a dormir'"
-superpower:   "Convertir datos en decisiones, caos en sistemas"
+name: "Nico Lencina"
+location: "Ushuaia, Tierra del Fuego 🇦🇷" # el lugar más austral del planeta
+role: ["FullStack Developer", "Cybersecurity Enthusiast", "Estudiante LSI"]
+university: "UNTDF — Lic. en Sistemas, orientación Calidad de Software"
+os: ["Ubuntu", "Windows"] #la libertad no es opcional
+interests: ["FullStack", "Ciberseguridad", "Redes", "Arquitectura de software"]
+mindset: "entender cómo funciona todo, hasta el último bit"
+building: "cosas que resuelven problemas reales, no solo demos bonitos"
+status: "en modo — un commit más y me voy a dormir" # mentira, nunca me voy
+fun_fact: "vivo en el fin del mundo y aun así el ping no es excusa"
 ```
 
-> *"La diferencia entre ciencia y magia es documentación."*
+> *"La calidad no es un feature, es la base.
+Si no entendés el fondo, solo estás usando magia."*
 
 ---
 
@@ -140,11 +143,11 @@ superpower:   "Convertir datos en decisiones, caos en sistemas"
 
 ```diff
 + Licenciatura en Sistemas — UNTDF (en curso)
-+ Análisis y visualización de datos
-+ Arquitecturas de microservicios
-! Profundizando en redes y protocolos
-! Explorando ciberseguridad ofensiva/defensiva
-- TODO: dormir más de 6 horas
++ Arquitectura de computadoras — estudiando desde los cimientos
++ FullStack: construyendo cosas que funcionan de verdad
+! Profundizando en redes, protocolos y ciberseguridad ofensiva
+! Cada bug que resuelvo es un paso más al vacío oscuro del kernel
+- TODO: dormir. Algún día =D.
 ```
 
 ---
@@ -166,13 +169,14 @@ superpower:   "Convertir datos en decisiones, caos en sistemas"
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   "El mejor código es el que resuelve el problema.   ║
-║    El segundo mejor, el que otro puede entender."    ║
-║                                                      ║
-║              EOF — end of profile                    ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║                                              ║
+║  "El código es como el asado:                ║
+║   si tenés que explicar por qué está así,    ║
+║   algo salió mal."                           ║
+║                                              ║
+║         EOF — from the end of the world      ║
+╚══════════════════════════════════════════════╝
 ```
 
 ![Profile views](https://komarev.com/ghpvc/?username=tuUsuario&color=00F5FF&style=for-the-badge&label=VISITAS+AL+PERFIL)
