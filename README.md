@@ -6,7 +6,7 @@
 ║                                                              ║
 ║      booting NicoLencina.exe ...                             ║
 ║      location: Ushuaia, Tierra del Fuego 🇦🇷 (fin del mundo)  ║
-║      [ ██████████████████████████ ] 100%  ✓                ║
+║      [ ██████████████████████████ ] 100%  ✓                  ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -26,16 +26,16 @@
 ## `$ cat about_me.txt`
 
 ```yaml
-name: "Nico Lencina"
-location: "Ushuaia, Tierra del Fuego 🇦🇷" # el lugar más austral del planeta
-role: ["FullStack Developer", "Cybersecurity Enthusiast", "Estudiante LSI"]
-university: "UNTDF — Lic. en Sistemas, orientación Calidad de Software"
-os: ["Ubuntu", "Windows"] #la libertad no es opcional
-interests: ["FullStack", "Ciberseguridad", "Redes", "Arquitectura de software"]
-mindset: "entender cómo funciona todo, hasta el último bit"
-building: "cosas que resuelven problemas reales, no solo demos bonitos"
-status: "en modo — un commit más y me voy a dormir" # mentira, nunca me voy
-fun_fact: "vivo en el fin del mundo y aun así el ping no es excusa"
+name:        "Nico Lencina"
+location:    "Ushuaia, Tierra del Fuego 🇦🇷" # el lugar más austral del planeta
+role:        ["FullStack Developer", "Cybersecurity Enthusiast", "Estudiante LSI"]
+university:  "UNTDF — Lic. en Sistemas, orientación Calidad de Software"
+os:          ["Ubuntu", "Windows"] #la libertad no es opcional
+interests:   ["FullStack", "Ciberseguridad", "Redes", "Arquitectura de software"]
+mindset:     "entender cómo funciona todo, hasta el último bit"
+building:    "cosas que resuelven problemas reales, no solo demos bonitos"
+status:      "en modo — un commit más y me voy a dormir" # mentira, nunca me voy
+fun_fact:    "vivo en el fin del mundo y aun así el ping no es excusa"
 ```
 
 > *"La calidad no es un feature, es la base.
